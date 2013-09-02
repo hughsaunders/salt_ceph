@@ -1,0 +1,8 @@
+2gb:
+  - cephstorage1
+  - cephstorage2
+  - cephstorage3
+  - cephmon1
+  - cephmon2
+  - cephmon3
+  - cephadmin
